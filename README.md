@@ -22,4 +22,8 @@
   > Mail -> sebastienthomaspr@gmail.com <br/>
   > Linkedin -> www.linkedin.com/in/sébastien-thomas-078319241
 
+# Quelque projets !
+> Maquettage, Intégration -> https://sebastienthomasdev.github.io/
+> Intégration -> https://htmlpreview.github.io/?https://github.com/SebastienThomasDEV/LILIPINSO/blob/main/index.html
+
 ### Merci d'avoir lu, n'hésitez pas à me contacter pour toute information complémentaire ou pour collaborer,<br/> je vous répondrez rapidement ! :wave:
