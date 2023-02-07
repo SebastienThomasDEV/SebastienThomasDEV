@@ -14,7 +14,7 @@
 
 # Ce que j'apprends en ce moment 🌱 
 - Je me forme par le biais de ma formation, le développement web et web mobile (Back-end, Front-end).
-  Nous travaillerons sur des frameworks comme symfony et angular pour le web, et pour le mobile React et Ionic.
+  Nous travaillerons sur des frameworks comme symfony ou React, et pour le mobile Ionic.
   Je me forme actuellement dans mon temps libre sur des stacks pour le mobile comme Flutter/Dart.
   
 # Contacts 📫 
