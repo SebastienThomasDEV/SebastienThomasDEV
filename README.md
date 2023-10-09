@@ -27,4 +27,6 @@ Voici quelques-uns de mes projets GitHub qui illustrent mon travail :
 Je suis ouvert aux opportunités de collaboration et de projet passionnant. 
 N'hésitez pas à explorer mes dépôts pour en savoir plus sur mes compétences et projets.
 
+[![Sebastient's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienThomasDEV)](https://github.com/anuraghazra/github-readme-stats)
+
 Merci !
