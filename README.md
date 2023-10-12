@@ -1,4 +1,4 @@
-# Thomas Sébastien - Développeur Symfony & Angular
+# Thomas Sébastien - Développeur Web et Web Mobile
 
 - 💼 Expérience dans la conception et la mise en œuvre d'architectures web et le développement de systèmes d'informations.
 - 📊 Je porte une attention à la performance et l'optimisation des mes applications.
