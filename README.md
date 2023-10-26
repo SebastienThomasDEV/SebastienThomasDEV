@@ -19,11 +19,6 @@ Voici quelques-uns de mes projets GitHub :
 - **Bases de données** : PostgreSQL, MariaDB.
 - **Outillages** : Git, Docker, Vite.
 
-## Contactez moi !
-
-- [Email](mailto:sebastienthomaspr@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-thomas-078319241/)
-
 Je suis ouvert aux opportunités de collaboration et de projet passionnant. 
 N'hésitez pas à explorer mes dépôts pour en savoir plus sur mes compétences et projets.
 
