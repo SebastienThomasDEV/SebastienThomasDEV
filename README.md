@@ -14,13 +14,6 @@ Voici quelques-uns de mes projets GitHub :
 - [Sunpower](https://sebastienthomasdev.github.io/Sunpower/): Intégration en HTML/CSS/JS natif d'une maquette, responsive et dynamique
 - [LILIPINSO](https://sebastienthomasdev.github.io/Lilipinso/): Intégration en bootstrap d'un site statique
 
-## Compétences 
-
-- **Langages** : PHP, JavaScript/TypeScript, Python.
-- **Frameworks** : Symfony, Angular.
-- **Bases de données** : PostgreSQL, MariaDB.
-- **Outillages** : Git, Docker, Vite.
-
 Je suis ouvert aux opportunités de collaboration et de projet passionnant. 
 N'hésitez pas à explorer mes dépôts pour en savoir plus sur mes compétences et projets.
 
